@@ -1,5 +1,5 @@
 This weekend challenge was to create a 10 pin bowling game using a new language; Javascript which we had began to learn during the week. The premise seemed quite straight forward at first but it the complex logic behind bowling soon became apparent.
-I approached this challenge by firstly creating a lit of requirements for bowling (basically shortened user stories)
+I approached this challenge by firstly creating a list of requirements for bowling (basically shortened user stories)
 
 1. A player starts with a score of 0
 2. A player scores points for each pin knocked down
@@ -14,7 +14,7 @@ I didn't manage to complete the challenge due to getting myself into a muddle. A
 I believe the lesson to be learned from this is the importance of planning and modelling. With thorough planning I believe I wouldn't have gotten myself and the code into such a muddle. 
 I feel I am poor at these skills and must improve them if I am to become a successful developer.
 
-
++Technologies used: JS, Jquery, HTML, CSS
 
 
 
